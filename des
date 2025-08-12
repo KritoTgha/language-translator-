@@ -1,0 +1,4 @@
+"A simple program that helps you translate sentences between different languages like English, French, and Spanish by using Hugging Face Helsinki-NLP models."
+"Multi-language translator CLI tool built with Transformers."
+"Python script to translate text between English, French, German, Spanish, Italian, Chinese, and Russian."
+"Command-line language translator using pre-trained Helsinki models from Hugging Face."
